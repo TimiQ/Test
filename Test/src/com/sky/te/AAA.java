@@ -1,9 +1,8 @@
 package com.sky.te;
 
 public class AAA {
-  
-  pulboidd  sdfasdfasdf 
 
+	public String aa = "";
 
 	private String str = "";
 }
